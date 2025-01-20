@@ -1,14 +1,16 @@
 :root{
   --accent-color:rgba(255, 0, 112, 1);
+  --section-title-color:rgba(255, 0, 112, 1);
   --main-text-color:rgba(241, 178, 206, 1);
   --main-title-color:rgba(219, 0, 255, 1);
   --nav-color:rgba(255, 0, 112, 1);
   --decor-color:rgba(255, 0, 112, 1);
-  --main-color:rgba(0, 0, 40, 1);
+  --accent-text-color:rgba(0, 0, 40, 1);
   --border-color-hover:rgba(255, 0, 112, 0.4);
+  --background-color:#000028;
   --background-image: url(../images/cover-image-dark.png);
   --main-font-size:18px;
-  --font-family: 'IBM Plex mono', sans-serif;
+  --font-family: 'IBM Plex mono', monospace;
   --decor-coner-size:25px;
 
 }

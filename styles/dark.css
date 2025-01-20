@@ -11,6 +11,11 @@
   --accent-color:rgba(255, 0, 112, 1);
   --main-text-color:rgba(241, 178, 206, 1);
   --main-title-color:rgba(219, 0, 255, 1);
-  --main-color:rgba(0, 0, 40, 1);
+  --section-title-color:rgba(255, 0, 112, 1);
+  --accent-text-color:rgba(0, 0, 40, 1);
+  --background-color:#000028;
   --border-color-hover:rgba(255, 0, 112, 0.4);
+}
+.theme_dark .header__decor {
+  display: block;
 }
